@@ -1,0 +1,18 @@
+# Library Management System
+
+## Description
+A console-based application to manage a library's book inventory, borrowing, and returning books.
+
+## Features
+- Add, remove, and update books.
+- Register and manage library members.
+- Borrow and return books.
+- View available books and borrowing history.
+
+## Setup
+1. Clone the repository.
+2. Compile the Java files.
+3. Run `LibraryManagementSystem` to start the application.
+
+## Usage
+Follow the on-screen prompts to manage the library.
